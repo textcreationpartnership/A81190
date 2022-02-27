@@ -1,0 +1,136 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A currant. 12 Julli, stylo novo, 1642. Or, some passages of great and dangerous consequence in France. Also an exact relation of the present state and condition of Germany, between the imperialists Swedes, and others; and of the happy successe and progresse of the said Swedes. With other considerable matters fitting to be known in these times, wherein so many heads are employed against the Parliament of England.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1642</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 5 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A81190</idno>
+            <idno type="STC">Wing C7680</idno>
+            <idno type="STC">Thomason E154_17</idno>
+            <idno type="STC">ESTC R22118</idno>
+            <idno type="EEBO-CITATION">99871593</idno>
+            <idno type="PROQUEST">99871593</idno>
+            <idno type="VID">156824</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A81190)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 156824)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 27:E154[17])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A currant. 12 Julli, stylo novo, 1642. Or, some passages of great and dangerous consequence in France. Also an exact relation of the present state and condition of Germany, between the imperialists Swedes, and others; and of the happy successe and progresse of the said Swedes. With other considerable matters fitting to be known in these times, wherein so many heads are employed against the Parliament of England.</title>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Edward Husbands, and John Frank,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1642.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+               <term>Europe --  History --  1517-1648 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-10</date>
+            <label>Judith Siefring</label>Sampled and proofread</change>
+         <change>
+            <date>2012-10</date>
+            <label>Judith Siefring</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:156824:1" rendition="simple:additions"/>
+            <p>A CURRANT. 12 <hi>Julii, Stylo novo,</hi> 1642. OR, Some paſſages of great and dangerous Conſequence in FRANCE. Alſo an exact RELATION Of the preſent ſtate and condition of GERMANY, between the Imperialiſts Swedes, and others; And of the happy ſucceſſe and progreſſe of the ſaid Swedes. With other conſiderable matters fitting to be known in theſe times, wherein ſo many heads are employed againſt the Parliament of <hi>ENGLAND.</hi>
+            </p>
+            <p>
+               <hi>London,</hi> Printed for <hi>Edward Husbands,</hi> and <hi>John Frank.</hi> 1642.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:156824:2"/>
+            <pb n="3" facs="tcp:156824:2"/>
+            <head>Paris, <hi>12</hi> Julii, <hi>1542.</hi> Stylo novo.</head>
+            <p>
+               <seg rend="decorInit">B</seg>Y an Expreſſe to a great Perſon it's certified, That the Queen mother is dead, and is verily believed. Monſieur is gone, being of the Plot; and ſome ſay a great one that muſt be nameleſſe knew of it If M. <hi>Jermyn,</hi> M. <hi>Percy,</hi> and M <hi>Mounta<g ref="char:EOLhyphen"/>gue</hi> had not been gone for <hi>Holland,</hi> there was order to have ſtayed them here. The Duke of <hi>Bulloyn</hi> is priſoner at <hi>Tu<g ref="char:EOLhyphen"/>ryn;</hi> ſome ſay his brother is got into <hi>Sedan:</hi> There were many in this Plot, and it falls out happily it is diſcovered; for <hi>France</hi> and <hi>Spain</hi> had joyned, if the Plot had taken, which could not but
+<pb n="4" facs="tcp:156824:3"/>have produced dangerous effects to <hi>England</hi> in this ſad time of diſtraction. As for the <hi>German</hi> News, the under<g ref="char:EOLhyphen"/>written will fully ſatisfie you, being a moſt exact and impartiall Relation of the preſent ſtate of thoſe parts.</p>
+            <p>The Prince of <hi>Tranſilvania</hi> ſeeing the happy ſucceſſe of the <hi>Swedes,</hi> to<g ref="char:EOLhyphen"/>wards the hereditary Countries of the Emperour, and believing he hath now found a fit occaſion to execute his de<g ref="char:EOLhyphen"/>ſigne contrived long ſince, which is, To make himſelf King of <hi>Hungaria,</hi> doth begin to arm very powerfully: that preparation, with the happy progreſſe of the Swedes, puts both the Emperour into great perplexity, and all <hi>Auſtria</hi> in<g ref="char:EOLhyphen"/>to an Alarm; for Generall <hi>Tortonſen,</hi> after his taking of <hi>Necoſſe,</hi> having pur<g ref="char:EOLhyphen"/>ſued
+<pb n="5" facs="tcp:156824:3"/>the Imperiall Army into <hi>Mora<g ref="char:EOLhyphen"/>via</hi> hath cauſed them to retire, and take their poſt toward the Frontiers of <hi>Hun<g ref="char:EOLhyphen"/>garia,</hi> neer to <hi>Malsborgh,</hi> and <hi>Badiſon,</hi> whither <hi>Piccolomini</hi> is gone with all di<g ref="char:EOLhyphen"/>ligence, to put the Imperiall Army in good order; but becauſe the Troops which are come out of high <hi>Saxony</hi> and <hi>Franconia</hi> are diſperſed, and for that the Swedes are come between them, they can very hardly joyn; beſides ſome Re<g ref="char:EOLhyphen"/>giments of the Emperours which are amongſt them, are mutined, and have pillaged the Baggage of the Arch duke <hi>Leopoldus:</hi> Likewiſe it is not known whether it were the Swedes or Impe<g ref="char:EOLhyphen"/>rialiſts that have pillaged 300 Wag<g ref="char:EOLhyphen"/>gons laden with very rich houſhold<g ref="char:EOLhyphen"/>ſtuffe, which was intended to have been ſaved out of <hi>Moravia,</hi> by convey<g ref="char:EOLhyphen"/>ing
+<pb n="6" facs="tcp:156824:4"/>of it to <hi>Vienna:</hi> In the mean time <hi>Conningſmarck,</hi> a Commander of the Swedes, hath taken the Town of <hi>Olmits,</hi> the Capitall of all <hi>Moravia,</hi> at the third Aſſault, and killed all which were found in Arms, from thence gone to <hi>Bruin,</hi> and it's believed at this time he will take it. <hi>Tortonſen</hi> threatens <hi>Gas</hi> and <hi>Prague;</hi> his Horſe makes courſes within 15 Leagues of <hi>Vienna,</hi> and doth expect ſpeedily new ſuccours out of <hi>Sweden.</hi> The Treaty with <hi>Luenburg</hi> goeth not forward, by reaſon that <hi>Hil<g ref="char:EOLhyphen"/>deſheim</hi> will receive no Garriſon. Touching the Armies about the <hi>Rhyne,</hi> they remain in this ſtate, each work up<g ref="char:EOLhyphen"/>on their Bridges upon Boats, do fortifie their Camps with new ſuccours: <hi>Hat<g ref="char:EOLhyphen"/>feld</hi> hath received a new Supply of four Regiments out of <hi>Franconia</hi> and <hi>Swale,</hi>
+               <pb n="7" facs="tcp:156824:4"/>and the Marſhall <hi>de Guibriane,</hi> hath joyned to him his confederates the <hi>Heſſens</hi> and the <hi>Weymerians;</hi> the firſt is encamped about <hi>Zoiet,</hi> and the other neer <hi>Ortingſon: Don Franciſco de Melo</hi> was not paſſed the River of <hi>Meiſe</hi> the firſt of this Month, but lodged between <hi>Riermond</hi> and <hi>Hepſemwert,</hi> and is in diſ<g ref="char:EOLhyphen"/>pute with <hi>Hatfeld</hi> for the higheſt Com<g ref="char:EOLhyphen"/>mand: but the Prince of <hi>Orange,</hi> and Marſhall <hi>de Guebriane</hi> agree very well, and their Camps are ſo neer together, that their Armies ſeem to be but one bo<g ref="char:EOLhyphen"/>dy: there paſſeth in their quarters no<g ref="char:EOLhyphen"/>thing but dayly Skirmiſhes, in which the Imperialiſts loſe many men, beſides thoſe which dayly disband; but the want of Victual and Forrage will in the the end force one Army or the other to a Battell, or to dislodge from their
+<pb n="8" facs="tcp:156824:5"/>quarters. The Sea Fleet of the <hi>Dun<g ref="char:EOLhyphen"/>kerkes</hi> was the third of this inſtant un<g ref="char:EOLhyphen"/>der their Fort, which is as well appre<g ref="char:EOLhyphen"/>hended in <hi>England</hi> as in <hi>Holland.</hi>
+            </p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
